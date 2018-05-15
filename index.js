@@ -1,4 +1,4 @@
-function add(number1,number2) {
-  number1++
+var number = 10
+function add5() {
+  number += 5
 }
-
