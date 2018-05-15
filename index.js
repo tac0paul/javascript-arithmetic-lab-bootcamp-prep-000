@@ -19,7 +19,5 @@ function dec(n) {
 function makeInt(n) {
   parseInt(n,10)
   if (n == parseInt(n,10))
-  return n }
-  
-  else
+  return n 
 }
